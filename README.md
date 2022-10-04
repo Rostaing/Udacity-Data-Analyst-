@@ -42,4 +42,3 @@ Understand the importance of data visualization. Know how different data types a
 
 - Project: [Create a Tableau Story](https://github.com/kaishengteh/Data-Analyst-Nanodegree/blob/master/8-Data-Visualization-in-Tableau/Create-a-Tableau-Story.ipynb)
 
-![udacity Data Analyst Nanodegree](https://user-images.githubusercontent.com/14093302/37262598-0227d436-25df-11e8-9613-a6a03c8edc08.jpg)
