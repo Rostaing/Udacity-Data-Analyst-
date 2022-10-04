@@ -5,7 +5,7 @@
 This repository contains projects for Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002).
 
 ### Part 1: Analyze Bay Area Bike Share Project
-
+Complete your first project analyzing bike rental data. It’s a great project to tackle during the first week in your Nanodegree to see if the program is a good fit for you!
 
 - Project: [Analyze Bay Area Bike Share Data](https://github.com/kaishengteh/Data-Analyst-Nanodegree/blob/master/1-Analyze-Bay-Area-Bike-Share-Project/Bay_Area_Bike_Share_Analysis.ipynb)
 
